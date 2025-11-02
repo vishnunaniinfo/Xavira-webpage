@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://www.xaviratechlabs.com/*"
+  to = "https://xaviratechlabs.com/:splat"
+  status = 301
+  force = true
